@@ -1,2 +1,2 @@
-# cytology-genetics-site2
+# cytology-genetics-site1
 Интерактивный сайт по цитологическим основам законов наследования
